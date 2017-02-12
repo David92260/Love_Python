@@ -1,6 +1,10 @@
+#!/usr/bin/env python2
+#-*- coding: utf-8 -*-
+
 """
 Python code for Saint Valentin !!!
 """
+
 import numpy as np
 import matplotlib.pyplot as plt
 
